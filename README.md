@@ -4,7 +4,7 @@
 Eight assignments designed to build core Python skills in logic, iteration, algorithms, and data structures.
 
 ## Source Link
-👉 **[Python Assignments Jobaaj]([https://lookerstudio.google.com/reporting/8ef3c8de-f270-47c7-8b3a-63224489e0b8](https://www.kaggle.com/code/aadeshdixit11/python-assignments-jobaaj))**
+👉 **[Python Assignments Jobaaj](https://www.kaggle.com/code/aadeshdixit11/python-assignments-jobaaj)**
 
 ## Contents
 - **Logic & Iteration**: Conditional branching, summations with `for` and `while` loops, dynamic input handling.  
